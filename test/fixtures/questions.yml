@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  description: MyString
+  possible_answer1: MyString
+  possible_answer2: MyString
+  possible_answer3: MyString
+  possible_answer4: MyString
+  correct_answer: MyString
+  movie_id: 1
+
+two:
+  description: MyString
+  possible_answer1: MyString
+  possible_answer2: MyString
+  possible_answer3: MyString
+  possible_answer4: MyString
+  correct_answer: MyString
+  movie_id: 1
